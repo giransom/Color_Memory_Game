@@ -6,6 +6,9 @@ This project includes the use of LED, Arduino Uno, and resistors. The game test 
 # Code
 - [Original Code](Color_Memory_Game.ino)
 
+# Schematics
+![Headstone Image](Color_Memory_Game_Schematic.png)
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
