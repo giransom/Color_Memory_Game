@@ -9,6 +9,9 @@ This project includes the use of LED, Arduino Uno, and resistors. The game test 
 # Schematics
 ![Headstone Image](Color_Memory_Game_Schematic.png)
 
+# Project Notes: Challenges & Fixes
+In the completion of this project there were many ups and downs, although overall the project was pretty straight forward. When first wiring up the hardware I ran into issues finding the original decoder utilized in the instructions, so I opted for the 74HC59 included in my 3in1 kit. When wiring up the 74HC59 I found an open source under sun founder kit with the pin layout of the chip. Additionally I had issues with wiring with my buttons, but after finding the pin layout also on sun founder everything was straight forward.
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
